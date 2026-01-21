@@ -127,7 +127,7 @@ lat,lon,zoom
 
 | Setting | Recommended Value |
 |---------|-------------------|
-| Memory | 3008 MB |
+| Memory | 512-1024 MB |
 | Timeout | 120 seconds |
 | Architecture | arm64 or x86_64 |
 
