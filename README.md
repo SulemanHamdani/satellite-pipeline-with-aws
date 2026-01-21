@@ -131,6 +131,3 @@ lat,lon,zoom
 | Timeout | 120 seconds |
 | Architecture | arm64 or x86_64 |
 
-## License
-
-Proprietary
